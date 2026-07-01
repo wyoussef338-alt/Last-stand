@@ -1,0 +1,6 @@
+{
+  "name": "Last Stand",
+  "description": "A thrilling 2D top-down zombie survival game with a day-night cycle, base building, character upgrades, rescuable soldiers, and intense wave defense.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
